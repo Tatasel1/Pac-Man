@@ -5,13 +5,13 @@ The project was developed collaboratively as part of a university course, combin
 
 # Instalation Guide
 
-1. Clone the repository<br/>
-   1.1 For Windows press Windows+R simultaneously. For Mac press Command+Spacebar simultaneously, then type Terminal. For Linux press Ctrl+Alt+T simultaneously.<br/>
+### 1. Clone the repository<br/>
+   1.1 For Windows press Windows+R simultaneously. <br/>For Mac press Command+Spacebar simultaneously, then type Terminal. <br/>For Linux press Ctrl+Alt+T simultaneously.<br/>
    1.2 In the command line type the folowing instruction:
    
    ```
    git clone https://github.com/Tatasel1/Pac-Man.git
 
    ```
-3. Open the folder that was cloned into the device, open "Build and Run" and then double click "My project"
-4. Enjoy
+### 3. Open the folder that was cloned into the device, open "Build and Run" and then double click "My project"
+### 4. Enjoy
