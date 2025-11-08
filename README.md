@@ -1,2 +1,3 @@
 # Pac-Man
-A university project created in collaboration with five students that focuses on learning IT concepts through playing a Pac-Man game.
+This project is a Pac-Man-inspired educational game built in Unity, featuring an integrated quiz system developed in C#. The game goes beyond classic gameplay by offering interactive questions as part of the experience. Player movement, interactions, and collision mechanics, as well as the user interfaces for level selection, starting the game, and displaying messages, are handled through Unity and C# scripts. The game uses tilemaps and simple animations to create its maps and buttons. 
+The project was developed collaboratively as part of a university course, combining the experience of a simple Pac-Man game with an interactive educational component.
