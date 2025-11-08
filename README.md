@@ -11,7 +11,6 @@ The project was developed collaboratively as part of a university course, combin
    
    ```
    git clone https://github.com/Tatasel1/Pac-Man.git
-
    ```
 ### 3. Open the folder that was cloned into the device, open "Build and Run" and then double click "My project"
 ### 4. Enjoy
